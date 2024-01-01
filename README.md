@@ -79,7 +79,7 @@ The insights derived from this analysis will be instrumental in informing strate
 
 3. Policy Compliance: Transportation policies emphasize friendliness towards elderly passengers, which necessitates a focus on their specific needs.
 
-4. Bank Card Usage: Adults primarily dominate the usage across all bank cards, while the elderly user count remains relatively low. Brizzi is the most utilized card, primarily by adults.
+4. Bank Card Usage: Adults primarily dominate the usage across all bank cards, while the elderly user count remains relatively low. DKI is the most utilized card, primarily by adults.
 
 5. Corridor Preference: The Ragunan - Gelora Bung Karno corridor is the most frequented by elderly passengers during rush hours, showing consistency both in the morning and evening. Other corridors like Lebak Bulus - Pelukangan witness increased usage during evening rush hours.
 
